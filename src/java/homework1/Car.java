@@ -1,4 +1,4 @@
-package homework;
+package homework1;
 
 /**
  * @author Serhii Klunniy
